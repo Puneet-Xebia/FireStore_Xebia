@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "639985698399",
+    "firebase_url": "https://questionanswerpoc.firebaseio.com",
+    "project_id": "questionanswerpoc",
+    "storage_bucket": "questionanswerpoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639985698399:android:5a404adf6f715e3f6e3dea",
+        "android_client_info": {
+          "package_name": "com.example.firestore_poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639985698399-losokb1i6nrfr3sab2bcu5ot6csohfr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcLK3J0UFidAURSl2CPaCG0RXLPP3DtZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639985698399-losokb1i6nrfr3sab2bcu5ot6csohfr4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639985698399-r1as3kh5kcgui6jsjla282rshjn6ch7v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xebia.quiz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639985698399:android:f6b752ba429bcbe66e3dea",
+        "android_client_info": {
+          "package_name": "com.xebia.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639985698399-losokb1i6nrfr3sab2bcu5ot6csohfr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcLK3J0UFidAURSl2CPaCG0RXLPP3DtZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639985698399-losokb1i6nrfr3sab2bcu5ot6csohfr4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639985698399-r1as3kh5kcgui6jsjla282rshjn6ch7v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xebia.quiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
